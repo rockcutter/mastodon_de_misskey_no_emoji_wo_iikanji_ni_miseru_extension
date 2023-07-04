@@ -1,0 +1,2 @@
+# mastodon_de_misskey_no_emoji_wo_iikanji_ni_miseru_extension
+mastodonでmisskeyの絵文字をいい感じに見せる拡張機能です
