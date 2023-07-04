@@ -1,0 +1,13 @@
+{
+  "name": "mastodonでmisskeyの絵文字をいい感じに見られるようにするやつ",
+  "author": "rockcutter",
+  "description": "mastodonでmisskeyの絵文字をいい感じに見られるようにするやつ",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "content_scripts": [
+    {
+      "matches": ["https://mastodon.compositecomputer.club/*"],
+      "css": ["style.css"]
+    }
+  ]
+}
